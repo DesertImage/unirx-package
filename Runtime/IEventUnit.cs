@@ -1,6 +1,6 @@
 using DesertImage;
 
-namespace Runtime
+namespace DesertImage.Events
 {
     public interface IEventUnit
     {
