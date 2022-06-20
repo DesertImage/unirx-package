@@ -1,1 +1,0 @@
-﻿namespace DesertImage.Events{    public interface IListen    {    }    public interface IListen<T> : IListen    {        void HandleCallback(T arguments);    }}

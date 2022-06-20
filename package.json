@@ -1,7 +1,7 @@
   {
-    "name": "com.desertimage.events",
-    "version": "0.1.2",
-    "displayName": "Events",
+    "name": "com.desertimage.unirx-package",
+    "version": "0.1.0",
+    "displayName": "UniRx",
     "description": "",
     "unity": "2017.4",
     "keywords": [],
