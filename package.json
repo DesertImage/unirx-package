@@ -1,10 +1,13 @@
   {
-    "name": "com.desertimage.unirx-package",
-    "version": "0.1.0",
-    "displayName": "UniRx",
+    "name": "com.desertimage.ecs",
+    "version": "0.2.1",
+    "displayName": "ECS",
     "description": "",
-    "unity": "2017.4",
+    "unity": "2020.3",
     "keywords": [],
-    "dependencies": {
+    "gitDependencies": {
+      "com.desertimage.events" : "git@github.com:DesertImage/events.git",
+      "com.desertimage.unirx-package" : "git@github.com:DesertImage/unirx-package.git",
+      "com.desertimage.lean-tween" : "git@github.com:DesertImage/lean-tween.git"
   }
 }
